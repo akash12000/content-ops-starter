@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Myelin Logo.png
+      url: /images/abstract-feature2.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
